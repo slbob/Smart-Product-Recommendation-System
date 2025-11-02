@@ -1,4 +1,4 @@
-// smartRecommendationSystem.js
+// smart_product_recommendation_system.js
 // Built as an extension of the provided template (core dictionary, heap, graph ideas).
 // Implements:
 // - product dictionary for O(1) lookups
